@@ -1,1 +1,1 @@
-# js-counter
+# counter App
